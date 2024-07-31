@@ -11,7 +11,7 @@ public class TronRisk
 {
     public static async Task Main(string[] args)
     {
-        String apiKey = "9ecfcd53-414c-4b55-aeaf-1d6750d8d71b";
+        String apiKey = "your api KEY";
         //String transcationHash = "853793d552635f533aa982b92b35b00e63a1c1add062c099da2450a15119bcb2";
 
         Console.WriteLine("Введите хеш проверочной транзакции: ");
